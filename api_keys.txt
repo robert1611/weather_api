@@ -1,0 +1,22 @@
+weather_api key
+openweathermap.org
+
+c075e484d5f15e479da2de57cb093263
+
+oil price api key
+www.oilpriceapi.com
+
+d74ca803b5faafb743099be8b086b042
+
+stock price api
+polygon.io
+
+mRSgvcEW_DEBK5_qSuqLibPLMcfxUjZP
+
+Spotify
+
+Client ID
+f3a4d2aa63cc4961aa338fc07a05b436
+
+Client Secret
+61aebc0e5e6647a08d832ecb40f1de19

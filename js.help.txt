@@ -1,0 +1,8 @@
+
+1.  getElementById
+2.  getElementsById
+3.  addEventListener
+
+Listener
+
+Callback Function
